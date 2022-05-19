@@ -1,13 +1,13 @@
-<h1 align="center">hey vro <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm Muhammed 😇 </h1>
+<h2 align="center">ʜᴇʏ ᴠʀᴏ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>ɪᴍ ᴍᴜʜᴀᴍᴍᴇᴅ </h2!>
 <p align="center">
   <img src="https://i.imgur.com/89UwiBi.jpeg" />
 </p>
 
-- 👼 My name is Muhammed 
-- 🗣️ I am 15 years old 
-- 🔭 I am not programmer
+- 👼 ᴍʏ ɴᴀᴍᴇ ɪs ᴍᴜʜᴀᴍᴍᴇᴅ 
+- 🗣️ ɪ ᴀᴍ 15 ʏ/ᴏ
+- 🔭 ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ
 
-<h1 align="center"> Connect with me
+<h1 align="center"> ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ
 <p align="center">
   <a href="https://instagram.com/I-AM-MUHAMMED"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/919961050829"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -18,7 +18,7 @@
 </p>
 
 
-![Profile Dilihat](https://komarev.com/ghpvc/?username=I-AM-MUHAMMED&color=blue&style=flat-square&label=Profile+Dilihat)
+![Profile](https://komarev.com/ghpvc/?username=I-AM-MUHAMMED&color=blue&style=flat-square&label=ᴘʀᴏғɪʟᴇ+ᴠɪᴇᴡs)
 ### Stats:
 
 <p align="center"><a href="https://github.com/I-AM-MUHAMMED"><img src="https://github-readme-stats.vercel.app/api?username=I-AM-MUHAMMED&show_icons=true&theme=radical"></a></p>
